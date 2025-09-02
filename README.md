@@ -1,2 +1,2 @@
-# Motorcycle-Parts-Analyze-in-SQL
+# Motorcycle-Parts--Sale-Analyze-in-SQL
 Analyzing motorcycle parts in POSTGRESQL
